@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
   "name": "Chain Alpha GMGN CA Clusters",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Show Chain Alpha CA analysis on GMGN token pages.",
   "permissions": ["storage"],
   "host_permissions": [
